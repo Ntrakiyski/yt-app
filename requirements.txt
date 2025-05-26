@@ -1,0 +1,11 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+yt-dlp>=2.0.0
+lxml>=4.9.0
+openai-whisper>=20231117
+moviepy>=1.0.3
+torch>=2.0.0
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+plotly>=5.15.0
+pandas>=2.0.0 
